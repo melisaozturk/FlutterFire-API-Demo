@@ -1,6 +1,6 @@
 # flutter_firebase_demo
 
-A new Flutter application.
+This demo Flutter project demonstrates an example usage of the FlutterFire API.
 
 ## Getting Started
 
